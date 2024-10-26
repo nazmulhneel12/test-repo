@@ -1,2 +1,2 @@
 # test-repo
-##  Neel started coading.
+##  Neel started coding.
